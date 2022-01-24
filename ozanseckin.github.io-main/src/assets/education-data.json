@@ -1,0 +1,22 @@
+[
+    {
+        "schoolName": "Istanbul Yıldız Technical University",
+        "schoolShortName": "YTU",
+        "fieldOfStudy": "Endüstriyel Elektronik",
+        "educationDate": "2005 - 2008",
+        "cgpa": "2,80",
+        "location": "Istanbul - Turkey",
+        "highlight": false,
+        "degreePath": "/assets/certificates/Masters Degree.pdf"
+    },
+    {
+        "schoolName": "ANADOLU ÜNİVERSİTESİ/İŞLETME FAKÜLTESİ/İŞLETME",
+        "schoolShortName": "AÖF",
+        "fieldOfStudy": "işletme",
+        "educationDate": "2018 - 2020",
+        "cgpa": "2.59",
+        "location": "İSTANBUL",
+        "highlight": false,
+        "degreePath": "/assets/certificates/Bachelors Degree.pdf"
+    }  
+]

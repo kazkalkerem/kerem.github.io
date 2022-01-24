@@ -1,0 +1,10 @@
+<div class="media">
+  <img class="mr-3 rounded align-self-center img-fluid" style="width:70px;"
+    [src]="'./assets/images/' + expitem.companyShortName + '.jpg'" alt="{{ 'Photo of ' + expitem.companyShortName }}">
+  <div class="media-body align-self-center">
+    <h5 class="m-0">{{ expitem.companyName }}</h5>
+    {{ expitem.jobTitle}}  
+    <br>
+    {{expitem.jobDate }}
+  </div><!-- media body -->
+</div><!-- media -->

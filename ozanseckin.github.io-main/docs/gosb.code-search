@@ -1,0 +1,14 @@
+# Query: gosb
+# ContextLines: 1
+
+2 results - 2 files
+
+docs\assets\experience-data.json:
+  3        "companyName":"GOSB",
+  4:       "companyShortName":"GOSB",
+  5        "jobTitle":"IT Specialist",
+
+src\assets\experience-data.json:
+  2      {
+  3:       "companyName":"GOSB",
+  4        "companyShortName":"GOSB",

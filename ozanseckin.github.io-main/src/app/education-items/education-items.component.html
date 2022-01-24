@@ -1,0 +1,8 @@
+<div class="media">
+    <img class="mr-3 rounded align-self-center img-fluid" style="width:70px;"
+        [src]="'./assets/images/' + eduItem.schoolShortName + '.jpg'" alt="{{ 'Photo of ' + eduItem.schoolName }}">
+    <div class="media-body align-self-center">
+        <h5 class="m-0">{{ eduItem.schoolName }}</h5>
+        {{ eduItem.fieldOfStudy + ' '+ eduItem.educationDate }}
+    </div><!-- media body -->
+</div><!-- media -->

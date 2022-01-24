@@ -1,0 +1,34 @@
+[
+    {
+      "companyName":"GSOB",
+      "companyShortName":"GOSB",
+      "jobTitle":"IT Specialist",
+      "jobDate" : "09/2013 - 02/2015",
+      "jobDescription":"GOSB ta bulunan yaklaşık 130 firmaya Metro Ethernet, Fiber internet, ISDN PRI , IP Telefon Mpls Vpn Dark fiber hizmetleri sağlamak bu aşamada kurulum, F/O bağlantı , 7/24 takip , arıza giderme saha da ki F/O şebekenin devamlılığını sağlamak Fiber İşleri ve Fiber Projelendirme Fiber sonlandırma odtr ölçüm Aktif-Pasif Sistem Kurulumu ve Devreye Alma İşleri Cisco switch konfigürasyonu ",
+      "highlight" : false
+    },
+    {
+      "companyName":"Turkcell Superonline",
+      "companyShortName":"Turkcell",
+      "jobTitle":"Network Consultant",
+      "jobDate":"03/2015 - 03/2016",
+      "jobDescription":"Kazı ve İnşaat İşleri,Proje Hazırlanması Saha survey hazırlanması F/O Hat kontrol Öbek çalışmaları Geçiş Hakları ve Haritalandırma İşleri Hakkediş kontrol ilerletme Fiberoptik Altyapı FTTH FTTB FTTX.",
+      "highlight" : false
+    },
+    {
+      "companyName":"Mikrolink",
+      "companyShortName":"Mikrolink",
+      "jobTitle":"Field Operations Supervisor",
+      "jobDate":"03/2016 - 05/2021 ",
+      "jobDescription":"Kazı ve İnşaat İşleri,Proje Hazırlanması Saha survey hazırlanması F/O Hat kontrol Öbek çalışmaları Geçiş Hakları ve Haritalandırma İşleri Hakkediş kontrol ilerletme Fiberoptik Altyapı FTTH FTTB FTTX..",
+      "highlight" : false
+    },
+    {
+      "companyName":"TurkNet",
+      "companyShortName":"TurkNet",
+      "jobTitle":"FTTx Rollout Specialist",
+      "jobDate":"05/2021 - ...",
+      "jobDescription":"Kazı ve İnşaat İşleri,Proje Hazırlanması Saha survey hazırlanması F/O Hat kontrol Öbek çalışmaları Geçiş Hakları ve Haritalandırma İşleri Hakkediş kontrol ilerletme Fiberoptik Altyapı FTTH FTTB FTTX.",
+      "highlight" : false
+    }
+  ]
